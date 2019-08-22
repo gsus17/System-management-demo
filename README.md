@@ -19,7 +19,7 @@ System Management Demo is a proyect to management new users and countries, apply
 * Ngrx
 
 # Demo
-* https://system-management-demo.firebaseapp.com/
+* https://ngrx-system-management-demo.firebaseapp.com
 
 # Quickstart
 Run `npm install` 
